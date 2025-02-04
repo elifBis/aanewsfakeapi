@@ -1,5 +1,5 @@
 {
-  "total": 29,
+  "total": 28,
   "facets": {},
   "newsList": [
     {
@@ -325,29 +325,6 @@
       "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196707_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196708_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196709_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196710_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196711_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196712_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196713_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196714_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196715_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196716_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196717_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196718_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196719_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196720_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196721_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196722_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196723_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196724_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196725_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196726_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196727_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196728_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196729_thumb.jpg",
       "isPublic": true,
       "photoIds": "7196707,7196708,7196709,7196710,7196711,7196712,7196713,7196714,7196715,7196716,7196717,7196718,7196719,7196720,7196721,7196722,7196723,7196724,7196725,7196726,7196727,7196728,7196729,"
-    },
-    {
-        "newsId": 15372933,
-        "newsType": 1,
-        "title": "İmkansızlıklara rağmen eğitimlerini sürdürüyor",
-        "spot": "Nehir ve kırmızı ve güz",
-        "categories": [
-          "Genel",
-          "Kültür, Sanat, Yaşam"
-        ],
-        "priority": "4 Rutin",
-        "language": "Türkçe",
-        "languageUI": "tr",
-        "location": "Filistin - Gazze",
-        "datetime": "13 Oca 2025 13:55",
-        "relations": false,
-        "packages": [
-          "Anadolu World Report",
-          "Genel"
-        ],
-       "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196707_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196708_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196709_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196710_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196711_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196712_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196713_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196714_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196715_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196716_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196717_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196718_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196719_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196720_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196721_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196722_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196723_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196724_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196725_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196726_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196727_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196728_thumb.jpg,//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/13/15372932/20250113_2_15372932_7196729_thumb.jpg",
-      "isPublic": true,
-      "photoIds": "7196707,7196708,7196709,7196710,7196711,7196712,7196713,7196714,7196715,7196716,7196717,7196718,7196719,7196720,7196721,7196722,7196723,7196724,7196725,7196726,7196727,7196728,7196729,"
-      }
+    }
   ]
 }
