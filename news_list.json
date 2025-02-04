@@ -346,6 +346,116 @@
       "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
       "isPublic": true,
       "photoIds": "7196947,"
+    },
+        {
+      "newsId": 15373005,
+      "newsType": 2,
+      "title": "Hükümet Yeni Ekonomik Paketini Açıkladı: Ne Değişiyor?",
+      "spot": "Hükümet, Türkiye'nin ekonomik sorunlarına çözüm sunmayı amaçlayan yeni bir ekonomik paket hazırladığını duyurdu. Bu paket, yerel üretimi artırmayı ve dış borçları azaltmayı hedefliyor.",
+      "categories": [
+        "Ekonomi",
+        "Politika"
+      ],
+      "priority": "3 Önemli",
+      "language": "Türkçe",
+      "languageUI": "tr",
+      "location": "Arnavutluk - Ergiri",
+      "datetime": "15 Oca 2025 11:53",
+      "relations": false,
+      "packages": [
+        "Çevre"
+      ],
+      "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
+      "isPublic": true,
+      "photoIds": "7196947,"
+    },
+        {
+      "newsId": 15373006,
+      "newsType": 2,
+      "title": "Yapay Zeka ile Geleceğin Sağlık Hizmetleri: Devrim Mi, Tehdit Mi?",
+      "spot": "Yapay zeka uygulamaları sağlık sektöründe büyük bir dönüşüm yaratıyor. Ancak uzmanlar, bu teknolojilerin sağlık verilerinin güvenliğini nasıl etkileyebileceği konusunda endişelerini dile getiriyor.",
+      "categories": [
+        " Teknoloji"
+      ],
+      "priority": "3 Önemli",
+      "language": "Türkçe",
+      "languageUI": "tr",
+      "location": "Arnavutluk - Ergiri",
+      "datetime": "15 Oca 2025 10:53",
+      "relations": false,
+      "packages": [
+        "Çevre"
+      ],
+      "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
+      "isPublic": true,
+      "photoIds": "7196947,"
+    },
+        {
+      "newsId": 15373007,
+      "newsType": 2,
+      "title": "Modern Sanatın Yükselen Yıldızı: Genç Sanatçılar ve Yeni Akımlar",
+      "spot": "Türkiye'deki genç sanatçılar, uluslararası alanda dikkat çekmeye başladı. Yeni akımlar ve dijital sanatlar, modern sanat dünyasında devrim yaratıyor.",
+      "categories": [
+        "Genel",
+        "Kültür, Sanat, Yaşam"
+      ],
+      "priority": "3 Önemli",
+      "language": "Türkçe",
+      "languageUI": "tr",
+      "location": "Arnavutluk - Ergiri",
+      "datetime": "15 Oca 2025 10:53",
+      "relations": false,
+      "packages": [
+        "Çevre"
+      ],
+      "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
+      "isPublic": true,
+      "photoIds": "7196947,"
+    },
+        {
+      "newsId": 15373008,
+      "newsType": 2,
+      "title": "Milli Futbol Takımı, Avrupa Şampiyonası'na Hızlı Başladı",
+      "spot": "Türkiye, Avrupa Futbol Şampiyonası eleme maçlarında ilk maçını kazanarak şampiyonluk yolundaki iddiasını ortaya koydu. Taraftarlar, takımın oyununu övgüyle karşıladı.",
+      "categories": [
+        "Ekonomi",
+        "Spor",
+        "Genel"
+      ],
+      "priority": "3 Önemli",
+      "language": "Türkçe",
+      "languageUI": "tr",
+      "location": "Arnavutluk - Ergiri",
+      "datetime": "15 Oca 2025 10:53",
+      "relations": false,
+      "packages": [
+        "Çevre"
+      ],
+      "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
+      "isPublic": true,
+      "photoIds": "7196947,"
+    },
+        {
+      "newsId": 15373009,
+      "newsType": 2,
+      "title": "Bağışıklık Sistemi Güçlendiren 5 Yiyecek: Korunmanın Sırları",
+      "spot": "Uzmanlar, bağışıklık sistemini güçlendirmek için düzenli olarak tüketilmesi gereken besinleri sıraladı. Bu yiyecekler, grip ve soğuk algınlığı gibi hastalıklarla mücadele etmeye yardımcı olabilir.",
+      "categories": [
+        "Sağlık",
+        "Genel"
+      ],
+      "priority": "3 Önemli",
+      "language": "Türkçe",
+      "languageUI": "tr",
+      "location": "Arnavutluk - Ergiri",
+      "datetime": "15 Oca 2025 10:53",
+      "relations": false,
+      "packages": [
+        "Çevre"
+      ],
+      "photos": "//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/01/15/15373002/20250115_2_15373002_7196947_thumb.jpg",
+      "isPublic": true,
+      "photoIds": "7196947,"
     }
   ]
 }
