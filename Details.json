@@ -1,292 +1,90 @@
-[
-    {
-        "items": [
-            {
-                "newsId": 15374284,
-                "deskId": 558,
-                "newsType": 2,
-                "title": "Nadir görülebilen kuş türü \"dağ cılıbıtı\", Şanlıurfa'da görüntülendi",
-                "spot": "",
-                "content": "",
-                "categories": [
-                    "Genel",
-                    "Sağlık",
-                    "Bilim, Teknoloji",
-                    "Kültür, Sanat, Yaşam"
-                ],
-                "authors": [
-                    "Belirsiz Kişi",
-                    "İsmail Şen",
-                    "Mehmet Can Toptaş",
-                    "Necmettin Karaca"
-                ],
-                "authorIds": [
-                    "-1",
-                    "11303",
-                    "11954",
-                    "1878"
-                ],
-                "redactors": [],
-                "translators": [],
-                "copyright": "",
-                "publisher": "Tuğba Aktümen",
-                "broadcastId": 7469109,
-                "packages": [
-                    "Anadolu World Report_",
-                    "Çevre_",
-                    "Energy Terminal_",
-                    "Genel_",
-                    "İDHP_",
-                    "Öne Çıkanlar_",
-                    "Özel_",
-                    "Şanlıurfa",
-                    "Yerel_"
-                ],
-                "priority": "4 Rutin",
-                "priorityId": 14,
-                "language": "Türkçe",
-                "languageUI": "tr",
-                "location": "Şanlıurfa",
-                "tags": [],
-                "datetime": "04-02-2025 11:37",
-                "relations": 0,
-                "approved": false,
-                "recevied": 9,
-                "locked": null,
-                "processTypeId": 9,
-                "publishId": 7469109,
-                "isTranslation": false,
-                "translater": null,
-                "isPublic": true,
-                "files": [
-                    {
-                        "title": "Bazı antimikrobiyallerin hayvanlarda kullanımına yasak getirildi",
-                        "content": "Tarım ve Orman Bakanlığı, insanlarda belirli enfeksiyonların tedavisi için kullanılan antimikrobiyaller veya antimikrobiyal madde gruplarını belirleyerek, bunların hayvanlarda kullanımını yasakladı.\r\n\r\n ( Mehmet Can Toptaş - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199147_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199147_Preview.jpg",
-                        "authors": "Mehmet Can Toptaş",
-                        "authorId": 11954,
-                        "tags": [],
-                        "copyright": "",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Van'da zincirleme trafik kazasında 1 kişi yaralandı",
-                        "content": "Van'ın Erciş ilçesinde 3 aracın karıştığı zincirleme trafik kazasında trafik kazasında 1 kişi yaralandı. Kışla Mahallesi'ndeki Meteoroloji Kavşağı'nda sürücülerinin ismi ve plakaları öğrenilemeyen 3 araç çarpıştı.  ( Necmettin Karaca - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199148_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199148_Preview.jpg",
-                        "authors": "Necmettin Karaca",
-                        "authorId": 11303,
-                        "tags": [],
-                        "copyright": "",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Erciş’te buzlanma nedeniyle 3 araç kaza yaptı",
-                        "content": "\n\nVan’ın Erciş ilçesinde buzlanma nedeniyle Kışla mahallesi Metroloji kavşağında 3 aracın karıştığı kaza meydana geldi haber verilmesi üzerine olay yerine polis ambulans ve itfaya ekipleri geldi kazada hafif yaralanan 1 kişi ambulansla Erciş Rıdvan çevik Devlet Hastanesine götürüldü bir süre trafiğe kapanan yol araçların kaldırılması ile tekrar trafiğe açıldı\n\n  ( Necmettin Karaca - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199149_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199149_Preview.jpg",
-                        "authors": "Necmettin Karaca",
-                        "authorId": 11303,
-                        "tags": [],
-                        "copyright": "",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Mersin'de tedavisi tamamlanan dağ keçisi yavrusu doğal ortamına bırakıldı",
-                        "content": "Mersin'in Silifke ilçesinde Mersin Doğa Koruma ve Milli Parklar Şubesi Müdürlüğü ekiplerince Hisar Dağı Yaban Hayatı Geliştirme Sahası'nda yaralı ve bitkin halde dağ keçisi yavrusu bulundu. Yavru özel bir veterinerlik kliniğinde tedaviye alındı. ( Murat Pancar - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199150_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199150_Preview.jpg",
-                        "authors": "Belirsiz Kişi",
-                        "authorId": -1,
-                        "tags": [],
-                        "copyright": "Murat Pancar",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Bartın'da adli yıl açılış töreni yapıldı",
-                        "content": "Bartın'da 2023-2024 adli yılı açılışı dolayısıyla tören düzenlendi. ( Akif Yaman - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199151_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199151_Preview.jpg",
-                        "authors": "Belirsiz Kişi",
-                        "authorId": -1,
-                        "tags": [],
-                        "copyright": "Akif Yaman",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Ankara Çoksesli Korosu Sırbistan'da \"en iyi koro\" ödülünü kazandı",
-                        "content": "Ankara Çoksesli Korosu, Sırbistan'da düzenlenen \"57. Mokranjac Günleri Festivali\" kapsamındaki Korolar Şarkı Yarışması'nda birinci oldu. ( Ankara Çoksesli Müzik Derneği - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199152_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199152_Preview.jpg",
-                        "authors": "Belirsiz Kişi",
-                        "authorId": -1,
-                        "tags": [],
-                        "copyright": "Ankara Çoksesli Müzik Derneği",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Elazığ'da bitkin halde bulunan su tavuğu yavrusu Hazar Gölü'ne bırakıldı",
-                        "content": "Elazığ'da yolda bitkin halde bulunan su tavuğu yavrusu Hazar Gölü'ne salındı. ( İsmail Şen - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199153_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199153_Preview.jpg",
-                        "authors": "İsmail Şen",
-                        "authorId": 1878,
-                        "tags": [],
-                        "copyright": "",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    },
-                    {
-                        "title": "Elazığ'da bitkin halde bulunan su tavuğu yavrusu Hazar Gölü'ne bırakıldı",
-                        "content": "Elazığ'da yolda bitkin halde bulunan su tavuğu yavrusu Hazar Gölü'ne salındı. ( İsmail Şen - Anadolu Ajansı )",
-                        "videoTimecode": null,
-                        "coverEnabled": false,
-                        "coverText": null,
-                        "videoDuration": null,
-                        "editor": null,
-                        "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199154_Thumb.jpg",
-                        "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199154_Preview.jpg",
-                        "authors": "İsmail Şen",
-                        "authorId": 1878,
-                        "tags": [],
-                        "copyright": "",
-                        "location": 4041,
-                        "locationName": "Şanlıurfa",
-                        "category": [
-                            "Genel",
-                            "Sağlık",
-                            "Bilim, Teknoloji",
-                            "Kültür, Sanat, Yaşam"
-                        ],
-                        "editorNameSurname": null,
-                        "translater": ""
-                    }
-                ]
-            }
-        ],
-        "permissions": [
-            "MY_KAYDET",
-            "MY_DUZENLEME",
-            "MY_HABERIZI",
-            "MY_POSTALA",
-            "MY_SUN",
-            "MY_ILISKILENDIR",
-            "MY_ILISKIKALDIR",
-            "MY_ARSIVLE",
-            "MY_CEVIRI",
-            "MY_FAVORILE",
-            "MY_REDDET",
-            "MY_IPTAL",
-            "MY_MASAIZI",
-            "MY_KILITKALDIR",
-            "MY_ONAYLA"
-        ]
-    },
-    {
+{
     "items": [
+        {
+            "newsId": 15374284,
+            "deskId": 558,
+            "newsType": 2,
+            "title": "Nadir görülebilen kuş türü \"dağ cılıbıtı\", Şanlıurfa'da görüntülendi",
+            "spot": "",
+            "content": "",
+            "categories": [
+                "Genel",
+                "Sağlık",
+                "Bilim, Teknoloji",
+                "Kültür, Sanat, Yaşam"
+            ],
+            "authors": [
+                "Belirsiz Kişi",
+                "İsmail Şen",
+                "Mehmet Can Toptaş",
+                "Necmettin Karaca"
+            ],
+            "authorIds": [-1, 11303, 11954, 1878],
+            "redactors": [],
+            "translators": [],
+            "copyright": "",
+            "publisher": "Tuğba Aktümen",
+            "broadcastId": 7469109,
+            "packages": [
+                "Anadolu World Report_",
+                "Çevre_",
+                "Energy Terminal_",
+                "Genel_",
+                "İDHP_",
+                "Öne Çıkanlar_",
+                "Özel_",
+                "Şanlıurfa",
+                "Yerel_"
+            ],
+            "priority": "4 Rutin",
+            "priorityId": 14,
+            "language": "Türkçe",
+            "languageUI": "tr",
+            "location": "Şanlıurfa",
+            "tags": [],
+            "datetime": "04-02-2025 11:37",
+            "relations": 0,
+            "approved": false,
+            "received": 9,
+            "locked": null,
+            "processTypeId": 9,
+            "publishId": 7469109,
+            "isTranslation": false,
+            "translater": null,
+            "isPublic": true,
+            "files": [
+                {
+                    "title": "Bazı antimikrobiyallerin hayvanlarda kullanımına yasak getirildi",
+                    "content": "Tarım ve Orman Bakanlığı...",
+                    "videoTimecode": null,
+                    "coverEnabled": false,
+                    "coverText": null,
+                    "videoDuration": null,
+                    "editor": null,
+                    "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Thumb/2025/02/04/15374284/20250204_2_15374284_7199147_Thumb.jpg",
+                    "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Fotograf/Preview/2025/02/04/15374284/20250204_2_15374284_7199147_Preview.jpg",
+                    "authors": "Mehmet Can Toptaş",
+                    "authorId": 11954,
+                    "tags": [],
+                    "copyright": "",
+                    "location": 4041,
+                    "locationName": "Şanlıurfa",
+                    "category": [
+                        "Genel",
+                        "Sağlık",
+                        "Bilim, Teknoloji",
+                        "Kültür, Sanat, Yaşam"
+                    ],
+                    "editorNameSurname": null,
+                    "translater": ""
+                }
+            ]
+        },
         {
             "newsId": 15374228,
             "deskId": 169,
             "newsType": 3,
-            "title": "MASAYA SUNULACAK , MOBİLDEN GÜNCELLENECEK. ",
+            "title": "MASAYA SUNULACAK , MOBİLDEN GÜNCELLENECEK.",
             "spot": "",
             "content": "",
             "categories": [
@@ -294,12 +92,8 @@
                 "Ekonomi",
                 "Sağlık"
             ],
-            "authors": [
-                "Tuğba Aktümen"
-            ],
-            "authorIds": [
-                "2321"
-            ],
+            "authors": ["Tuğba Aktümen"],
+            "authorIds": [2321],
             "redactors": [],
             "translators": [],
             "copyright": "",
@@ -319,7 +113,7 @@
             "datetime": "03-02-2025 10:43",
             "relations": 1,
             "approved": false,
-            "recevied": 9,
+            "received": 9,
             "locked": null,
             "processTypeId": 9,
             "publishId": 7469100,
@@ -328,118 +122,53 @@
             "isPublic": true,
             "files": [
                 {
-                    "title": "DENEME MOBİL : mobilden öncelik 3 yapıldı ",
+                    "title": "DENEME MOBİL : mobilden öncelik 3 yapıldı",
                     "content": "DENEME MOBİL",
                     "videoTimecode": "GÖRÜNTÜ DÖKÜMÜ :DENEME MOBİL",
                     "coverEnabled": true,
-                    "coverText": "Adana - DENEME MOBİL ",
+                    "coverText": "Adana - DENEME MOBİL",
                     "videoDuration": 121,
                     "editor": 2321,
                     "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Goruntu/Thumb/2025/02/03/15374228/20250203_3_15374228_7198947_Thumb.jpg",
                     "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Goruntu/Preview/2025/02/03/15374228/20250203_3_15374228_7198947_Preview.mp4",
                     "authors": "Tuğba Aktümen",
                     "authorId": 2321,
-                    "tags": [
-                        "deneme"
-                    ],
+                    "tags": ["deneme"],
                     "copyright": "",
                     "location": 3974,
                     "locationName": "Adana",
-                    "category": [
-                        "Genel",
-                        "Ekonomi",
-                        "Sağlık"
-                    ],
-                    "editorNameSurname": "Tuğba Aktümen",
-                    "translater": ""
-                },
-                {
-                    "title": "DENEME MOBİL ",
-                    "content": "DENEME MOBİL",
-                    "videoTimecode": "GÖRÜNTÜ DÖKÜMÜ :DENEME MOBİL",
-                    "coverEnabled": false,
-                    "coverText": "",
-                    "videoDuration": 208,
-                    "editor": 2321,
-                    "thumbURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Goruntu/Thumb/2025/02/03/15374228/20250203_3_15374228_7198948_Thumb.jpg",
-                    "previewURL": "/Muhabir/Haber/Handlers/MobileImageHandler.ashx?urlResim=//testhasv2cdn.aa.com.tr/Arsiv/Goruntu/Preview/2025/02/03/15374228/20250203_3_15374228_7198948_Preview.mp4",
-                    "authors": "Tuğba Aktümen",
-                    "authorId": 2321,
-                    "tags": [
-                        "deneme"
-                    ],
-                    "copyright": "",
-                    "location": 3974,
-                    "locationName": "Adana",
-                    "category": [
-                        "Genel",
-                        "Ekonomi",
-                        "Sağlık"
-                    ],
+                    "category": ["Genel", "Ekonomi", "Sağlık"],
                     "editorNameSurname": "Tuğba Aktümen",
                     "translater": ""
                 }
             ]
-        }
-    ],
-    "permissions": [
-        "MY_KAYDET",
-        "MY_DUZENLEME",
-        "MY_HABERIZI",
-        "MY_POSTALA",
-        "MY_SUN",
-        "MY_ILISKILENDIR",
-        "MY_ILISKIKALDIR",
-        "MY_ARSIVLE",
-        "MY_CEVIRI",
-        "MY_FAVORILE",
-        "MY_REDDET",
-        "MY_IPTAL",
-        "MY_MASAIZI",
-        "MY_KILITKALDIR",
-        "MY_ONAYLA"
-    ]
-},
-{
-    "items": [
+        },
         {
             "newsId": 15373851,
             "deskId": null,
             "newsType": 1,
-            "title": "SİVAS (AA) - Sivas'ın Akıncılar ilçesinde kaymakam Musa Türkmen, kurum amirleri ile Şenbağlar köyüne ziyarette bulundu.",
+            "title": "Sivas'ın Akıncılar ilçesinde kaymakam Musa Türkmen, kurum amirleri ile Şenbağlar köyüne ziyarette bulundu.",
             "spot": null,
-            "content": "<p>SİVAS (AA) - Sivas&#39;ın Akıncılar ilçesinde kaymakam Musa Türkmen, kurum amirleri ile Şenbağlar köyüne ziyarette bulundu.</p><p>Köyde muhtar ve vatandaşlarla bir araya gelen Türkmen, talep ve sorunları dinledi.</p><p>Türkmen, köy ziyaretleriyle sorunları yerinde görmeyi ve dinlemeyi amaçladığını söyledi.</p><p>Vatandaşların yaşam kalitesini artırmak için çalışmalar yaptıklarını dile getiren Türkmen, köylerin daha yaşanabilir olması için çaba gösterdiklerini belirtti.</p>",
-            "categories": [
-                "Genel"
-            ],
-            "authors": [
-                "Nusret Yılmaz"
-            ],
-            "authorIds": [
-                "11982"
-            ],
-            "redactors": [
-                "Nusret Yılmaz"
-            ],
+            "content": "<p>SİVAS (AA) - ...</p>",
+            "categories": ["Genel"],
+            "authors": ["Nusret Yılmaz"],
+            "authorIds": [11982],
+            "redactors": ["Nusret Yılmaz"],
             "translators": [],
             "copyright": null,
             "publisher": "Nusret Yılmaz",
             "broadcastId": 7469093,
-            "packages": [
-                "Anadolu Video News_"
-            ],
+            "packages": ["Anadolu Video News_"],
             "priority": "4 Rutin",
             "priorityId": 14,
             "language": "Türkçe",
             "languageUI": "tr",
             "location": "Turkey",
-            "tags": [
-                "deneme"
-            ],
+            "tags": ["deneme"],
             "datetime": "27-01-2025 11:38",
             "relations": 0,
             "approved": false,
-            "recevied": 9,
+            "received": 9,
             "locked": null,
             "processTypeId": 9,
             "publishId": 7469093,
@@ -464,4 +193,3 @@
         "MY_SIL"
     ]
 }
-]
